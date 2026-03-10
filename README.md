@@ -10,6 +10,13 @@ Built with ❤️ using <b>Flutter</b> and powered by the <b>Jikan API</b>.
 
 ---
 
+## 📱 Screenshots
+
+| Home Screen | Search | Latest Anime |
+|---|---|---|
+| ![Home](https://github.com/user-attachments/assets/e5c15cb6-6b8a-43f9-8c81-1c9bdd6f9d9e) | ![Search](https://github.com/user-attachments/assets/5301b028-b03e-4f40-8d98-d9207a378b51) | ![Latest Anime](https://github.com/user-attachments/assets/daebdc5b-dd5a-4796-9d51-9fa18e466b79) |
+
+---
 <h2>📱 Features</h2>
 
 <ul>
@@ -124,16 +131,6 @@ flutter run
 
 ---
 
-<h2>📸 Screenshots</h2>
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/e5c15cb6-6b8a-43f9-8c81-1c9bdd6f9d9e" width="250"/>
-<img src="https://github.com/user-attachments/assets/5301b028-b03e-4f40-8d98-d9207a378b51" width="250"/>
-<img src="https://github.com/user-attachments/assets/daebdc5b-dd5a-4796-9d51-9fa18e466b79" width="250"/>
-  
-</p>
-
----
 
 <h2>👨‍💻 Author</h2>
 
